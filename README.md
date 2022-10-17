@@ -25,3 +25,11 @@ Assim, os programas foram compilados. Feito isso, agora é possivel executar cad
 ## Funcionalidades
 
 Ao rodar cada campo, um menu com os comandos será exibido na tela, mostrando as interações em cada um. Em todos eles é possível mover a bola com as setinhas, marcar um gol, mudar entre câmeras predefinidas ou move-las livremente, reiniciar o placar e ocultar o menu com essas instruções.
+
+## Screenshots
+
+<div >
+  <img src="https://user-images.githubusercontent.com/73549297/196065671-0c446264-d19d-4d31-9d61-fceb29957d85.png" width="335px" />
+  <img src="https://user-images.githubusercontent.com/73549297/196065923-200438e2-9051-4873-9fc1-976b2741fb38.png" width="328px" />
+  <img src="https://user-images.githubusercontent.com/73549297/196065924-b2121667-7178-469b-904d-8e9b736944e5.png" width="328px" />
+</div>
